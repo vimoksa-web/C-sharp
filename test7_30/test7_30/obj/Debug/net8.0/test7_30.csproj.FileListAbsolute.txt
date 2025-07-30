@@ -1,0 +1,14 @@
+D:\Visual Studio\C#\test7_30\test7_30\bin\Debug\net8.0\test7_30.exe
+D:\Visual Studio\C#\test7_30\test7_30\bin\Debug\net8.0\test7_30.deps.json
+D:\Visual Studio\C#\test7_30\test7_30\bin\Debug\net8.0\test7_30.runtimeconfig.json
+D:\Visual Studio\C#\test7_30\test7_30\bin\Debug\net8.0\test7_30.dll
+D:\Visual Studio\C#\test7_30\test7_30\bin\Debug\net8.0\test7_30.pdb
+D:\Visual Studio\C#\test7_30\test7_30\obj\Debug\net8.0\test7_30.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\C#\test7_30\test7_30\obj\Debug\net8.0\test7_30.AssemblyInfoInputs.cache
+D:\Visual Studio\C#\test7_30\test7_30\obj\Debug\net8.0\test7_30.AssemblyInfo.cs
+D:\Visual Studio\C#\test7_30\test7_30\obj\Debug\net8.0\test7_30.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#\test7_30\test7_30\obj\Debug\net8.0\test7_30.dll
+D:\Visual Studio\C#\test7_30\test7_30\obj\Debug\net8.0\refint\test7_30.dll
+D:\Visual Studio\C#\test7_30\test7_30\obj\Debug\net8.0\test7_30.pdb
+D:\Visual Studio\C#\test7_30\test7_30\obj\Debug\net8.0\test7_30.genruntimeconfig.cache
+D:\Visual Studio\C#\test7_30\test7_30\obj\Debug\net8.0\ref\test7_30.dll
